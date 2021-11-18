@@ -1,4 +1,4 @@
-## Welcome my Website being maintained by Mr. BIRASA FABRICE
+## Welcome to my Website which is maintained by Mr. BIRASA FABRICE
 
 You can use the [editor on GitHub](https://github.com/birasafab/mywebsite/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
